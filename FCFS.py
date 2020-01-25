@@ -1,6 +1,6 @@
+#!/usr/bin/python3
 #Ido Shany - 207689746
 #Omer Lindner - 313532574
-#!/usr/bin/python3
 import sys
 import re
 from operator import itemgetter
